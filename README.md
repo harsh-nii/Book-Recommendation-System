@@ -1,9 +1,8 @@
 # Book Recommendation System
-### Check Out Our Blog On Book Recommendation System Here:
-<a href=https://ashima96.medium.com/building-a-book-recommendation-system-a98c58a4f1bb>Book Recommendation System</a>
+
 ## Description:
 <p>A Book Recommendation System which recommends the users a selection of books based on their interests.</p>
-<p>Data used for this project was taken from <a href=http://www2.informatik.uni-freiburg.de/~cziegler/BX/>here</a></p>
+
 
 ### 1. Data Cleaning and Pre-Processing
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:<br><br>
